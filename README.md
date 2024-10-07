@@ -1,0 +1,1 @@
+I created a chatbot using OpenAI’s Gemini model, driven purely by curiosity. This project was an exploration into chatbot development and AI language models, and it allowed me to experiment with conversational AI capabilities.
